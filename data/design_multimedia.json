@@ -1,0 +1,126 @@
+[
+  {
+    "id": "74777cb0-5d6f-4580-b1a9-4359b59b8f22",
+    "course_fee": "15,000/-",
+    "img_uri": "/digitalImageManupulation.svg",
+    "title": "Digital Image Manipulation",
+    "desc": "An image editor is a professional who is skilled at manipulating digital images using various tools and techniques to enhance their visual appeal. Image editing is an essential part of various industries, such as e-commerce, fashion, and publishing, where high-quality and attractive images are crucial for success. <br> <br> By enrolling in a Digital Image Editing Course, you can learn the skills and techniques required to become a professional image editor and earn a living by working in various industries. This course can help you develop skills in using popular image editing software and applying techniques to create stunning visuals.",
+    "career_opportunity": [
+      "Photo Editor",
+      "Graphic Designer",
+      "Web Designer",
+      "Digital Marketer",
+      "E-commerce Specialist",
+      "Freelancing"
+    ],
+    "curriculum": [
+      "Software introduction",
+      "Image formats and resolution",
+      "Basic editing tools",
+      "Advanced editing tools",
+      "Filters and effects",
+      "Portrait and product retouching",
+      "Print and web design",
+      "Compositing and manipulation",
+      "Special effects and text",
+      "Output preparation and formats"
+    ],
+    "software": ["Adobe Photoshop", "Adobe Lightroom"],
+    "who_can_learn": [
+      "Freelancers",
+      "Housewife",
+      "Students",
+      "Anyone interested in Anyone interested in graphics design",
+      "Digital artist",
+      "job seekers"
+    ]
+  },
+  {
+    "id": "e0033a3c-bc09-45d6-81b4-a3235919787c",
+    "course_fee": "10,000/-",
+    "img_uri": "/photoshop.svg",
+    "title": "Adobe Photoshop",
+    "desc": "Adobe Photoshop is a powerful digital image editing software developed and published by Adobe Inc. It is widely used by professionals in various industries, including photography, graphic design, advertising, and film-making, for creating and editing images, illustrations, and graphics.  <br> <br> Photoshop offers a wide range of advanced tools and features for image manipulation, retouching, compositing, and color correction. It supports various image formats and can be used on both Windows and Mac operating systems. Adobe Photoshop is available through a subscription-based service called Adobe Creative Cloud, which includes other creative software as well.",
+    "career_opportunity": [
+      "Photo Editor",
+      "Graphic Designer",
+      "Web Designer",
+      "Digital Marketer",
+      "E-commerce Specialist",
+      "Freelancing"
+    ],
+    "curriculum": [
+      "Introduction to Adobe Photoshop",
+      "The Photoshop Interface",
+      "The Basics of Image Editing",
+      "Color Correction and Management",
+      "Working with Layers and Masks",
+      "Selection Tools and Techniques",
+      "Image Retouching and Restoration",
+      "Typography in Photoshop",
+      "Filters and Effects",
+      "Creating Composite Images and Collages",
+      "Working with Vector Graphics",
+      "Advanced Image Editing Techniques",
+      "Preparing Images for Print",
+      "Preparing Images for the Web"
+    ],
+    "software": ["Adobe Photoshop"],
+    "who_can_learn": [
+      "Freelancers",
+      "Housewife",
+      "Students",
+      "Anyone interested in Anyone interested in graphics design",
+      "job seekers"
+    ]
+  },
+  {
+    "id": "0b2a2dd1-dd62-48ec-86b1-c7e52e46e8fd",
+    "course_fee": "10,000/-",
+    "img_uri": "/illustrator.svg",
+    "title": "Adobe Illustrator",
+    "desc": "Adobe Illustrator is a vector-based graphic design software that allows users to create and edit digital illustrations, logos, typography, and other visual elements. <br> <br>  It provides a wide range of tools and features such as the Pen tool, Shape Builder tool, Gradient tool, and support for working with typography. Illustrator files can be saved in multiple formats for sharing and exporting.",
+    "career_opportunity": [
+      "Graphic Designer",
+      "Logo Designer",
+      "Illustrator",
+      "Art Director",
+      "Visual Artist",
+      "Packaging Designer",
+      "UI/UX Designer",
+      "Web Designer",
+      "Fashion Designer",
+      "Animator"
+    ],
+    "curriculum": [
+      "Introduction to Illustrator interface and workspace",
+      "Creating basic shapes and lines",
+      "Editing and transforming objects",
+      "Working with colors and gradients",
+      "Creating and manipulating paths",
+      "Working with typography",
+      "Using layers and groups",
+      "Creating and using brushes",
+      "Working with symbols and patterns",
+      "Creating 3D objects and effects",
+      "Using the Shape Builder tool",
+      "Creating and editing graphs and charts",
+      "Using the Perspective Grid",
+      "Working with live effects and transparency",
+      "Creating vector illustrations from photographs",
+      "Preparing files for print and web",
+      "Creating complex vector illustrations",
+      "Using Illustrator with other Adobe software",
+      "Creating vector illustrations for mobile applications",
+      "Advanced techniques and shortcuts for efficient workflows"
+    ],
+    "software": ["Adobe Illustrator"],
+    "who_can_learn": [
+      "Freelancers",
+      "Housewife",
+      "Students",
+      "Anyone interested in Anyone interested in graphics design",
+      "job seekers"
+    ]
+  }
+]

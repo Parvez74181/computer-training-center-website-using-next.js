@@ -1,0 +1,15 @@
+.single-course-page {
+  .btn {
+    border: none;
+    outline: none;
+    background: var(--secondary-color);
+    color: #fff;
+    padding: 10px 15px;
+    letter-spacing: 1px;
+    transition: 0.4s;
+    font-weight: 400;
+    &:hover {
+      background: var(--secondary-color);
+    }
+  }
+}
